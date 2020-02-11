@@ -17,7 +17,7 @@ Reference paper: https://doi.org/10.1016/j.cell.2018.02.010
 
 ### Results
 Test Accuracy: **84.62%**
-
-
+<br/>
+<br/>
 
 ![alt text](https://github.com/ushashwat/Chest-XRay-Pneumonia-Detection/blob/master/chest_xray_images.jpeg)
